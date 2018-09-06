@@ -4,7 +4,7 @@
   <div class="logo">
     <img src="../assets/logo.png" />
   </div>
-  <h3 class="title">best-resume-ever</h3>
+  <h3 class="title">田琪的简历</h3>
   <div class="previews">
     <div class="preview">
       <router-link v-bind:to="'/resume/material-dark'">
